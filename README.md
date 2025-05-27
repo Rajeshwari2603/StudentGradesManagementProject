@@ -49,3 +49,6 @@ StudentGradesManagementProject/
 ├── requirements.txt # Python dependencies
 └── README.md # Project info
 
+Fix folder structure formatting in README
+
+
