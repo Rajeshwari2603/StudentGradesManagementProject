@@ -47,4 +47,6 @@ StudentGradesManagementProject/
 ├── student_report.xlsx # Excel export
 ├── student_report.pdf # PDF export
 ├── requirements.txt # Required Python libraries
-└── README.md # This file
+└── README.md # Project info
+
+
