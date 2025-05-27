@@ -40,13 +40,12 @@ This project was created to:
 ## 📁 Folder Structure
 
 StudentGradesManagementProject/
-├── data/ # Input Excel file
+├── data/ # Excel input file
 ├── db/ # SQLite database
-├── scripts/ # Python scripts (processing, searching, exporting)
-├── grade_distribution.png # Bar chart image
-├── student_report.xlsx # Excel export
-├── student_report.pdf # PDF export
-├── requirements.txt # Required Python libraries
+├── scripts/ # Python logic
+├── grade_distribution.png # Chart image
+├── student_report.xlsx # Final Excel export
+├── student_report.pdf # Final PDF export
+├── requirements.txt # Python dependencies
 └── README.md # Project info
-
 
