@@ -39,5 +39,14 @@ This project was created to:
 
 ## 📁 Folder Structure
 
-<pre> ```text StudentGradesManagementProject/ ├── data/ # Excel input file ├── db/ # SQLite database ├── scripts/ # Python logic ├── grade_distribution.png # Chart image ├── student_report.xlsx # Final Excel export ├── student_report.pdf # Final PDF export ├── requirements.txt # Python dependencies └── README.md # Project info ``` </pre>
+StudentGradesManagementProject/ 
+├── data/ # Excel input file 
+├── db/ # SQLite database 
+├── scripts/ # Python logic 
+├── grade_distribution.png # Chart image 
+├── student_report.xlsx # Final Excel export 
+├── student_report.pdf # Final PDF export 
+├── requirements.txt # Python dependencies 
+└── README.md # Project info 
+
 
